@@ -1,0 +1,1 @@
+Venta: SellOrder{userId=e462c223-368a-4aa0-a7e0-8d2e32955bd2, crypto=Bitcoin, amount=0.5, price=2000.0}
